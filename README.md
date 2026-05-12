@@ -43,8 +43,8 @@ $ cat focus.log
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Matheus0o0&show_icons=true&count_private=true&hide_border=true&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=0a0a0a" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus0o0&layout=compact&hide_border=true&title_color=c084fc&text_color=e9d5ff&bg_color=0a0a0a&langs_count=8" alt="top langs"/>
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Matheus0o0&show_icons=true&count_private=true&hide_border=true&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=0a0a0a" alt="stats"/>
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Matheus0o0&layout=compact&hide_border=true&title_color=c084fc&text_color=e9d5ff&bg_color=0a0a0a&langs_count=8" alt="top langs"/>
 
 </div>
 
@@ -160,9 +160,7 @@ $ cat focus.log
 
 <div align="center">
 
-<sub>`// visitors`</sub>
-<br>
-<img src="https://profile-counter.glitch.me/Matheus0o0/count.svg" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=Matheus0o0&label=profile+visitors&color=c084fc&style=for-the-badge" alt="visitors"/>
 
 </div>
 
