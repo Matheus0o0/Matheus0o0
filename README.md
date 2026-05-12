@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=%3E+booting+system...;%3E+user%3A+matheus_amorim;%3E+age%3A+21;%3E+%40+IFBA+%2F+Sistemas+de+Informa%C3%A7%C3%A3o;%3E+status%3A+ONLINE_%E2%96%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=%3E+booting+system...;%3E+user%3A+matheus_amorim;%3E+age%3A+22;%3E+%40+IFBA+%2F+Sistemas+de+Informa%C3%A7%C3%A3o;%3E+status%3A+ONLINE_%E2%96%88)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,13 +24,13 @@
 
 ```bash
 $ whoami
-  matheus amorim — 21 anos
+  matheus amorim — 22 anos
 
 $ cat education.log
   Sistemas de Informação @ IFBA
 
 $ cat focus.log
-  JavaScript · Node.JS · MySQL
+  AI Agents · WhatsApp APIs · Backend
 ```
 
 <br>
@@ -56,24 +56,71 @@ $ cat focus.log
 
 ## ❯ `stack`
 
-**`// main skills`**
+**`// languages`**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=c084fc&labelColor=0a0a0a)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=c084fc&labelColor=0a0a0a)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=c084fc&labelColor=0a0a0a)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=c084fc&labelColor=0a0a0a)
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=c084fc&labelColor=0a0a0a)
 ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=c084fc&labelColor=0a0a0a)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=c084fc&labelColor=0a0a0a)
+
+**`// ai & voice`**
+
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-0a0a0a?style=for-the-badge&logo=anthropic&logoColor=ec4899&labelColor=0a0a0a)
+![OpenAI](https://img.shields.io/badge/OpenAI-0a0a0a?style=for-the-badge&logo=openai&logoColor=ec4899&labelColor=0a0a0a)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0a0a0a?style=for-the-badge&logo=elevenlabs&logoColor=ec4899&labelColor=0a0a0a)
+![Whisper](https://img.shields.io/badge/Whisper-0a0a0a?style=for-the-badge&logo=openai&logoColor=ec4899&labelColor=0a0a0a)
+
+**`// backend`**
+
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=c084fc&labelColor=0a0a0a)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=c084fc&labelColor=0a0a0a)
+![Webhooks](https://img.shields.io/badge/Webhooks-0a0a0a?style=for-the-badge&logo=webhooks&logoColor=c084fc&labelColor=0a0a0a)
+
+**`// database & cache`**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=c084fc&labelColor=0a0a0a)
+![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=for-the-badge&logo=supabase&logoColor=c084fc&labelColor=0a0a0a)
+![PGVector](https://img.shields.io/badge/PGVector-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=c084fc&labelColor=0a0a0a)
+![Redis](https://img.shields.io/badge/Redis-0a0a0a?style=for-the-badge&logo=redis&logoColor=c084fc&labelColor=0a0a0a)
+
+**`// frontend`**
+
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=c084fc&labelColor=0a0a0a)
+
+**`// devops & infra`**
+
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=c084fc&labelColor=0a0a0a)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0a0a0a?style=for-the-badge&logo=ubuntu&logoColor=c084fc&labelColor=0a0a0a)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=c084fc&labelColor=0a0a0a)
+![Nginx](https://img.shields.io/badge/Nginx-0a0a0a?style=for-the-badge&logo=nginx&logoColor=c084fc&labelColor=0a0a0a)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-0a0a0a?style=for-the-badge&logo=letsencrypt&logoColor=c084fc&labelColor=0a0a0a)
+![Hostinger](https://img.shields.io/badge/Hostinger_VPS-0a0a0a?style=for-the-badge&logo=hostinger&logoColor=c084fc&labelColor=0a0a0a)
+
+**`// integrations`**
+
+![Evolution API](https://img.shields.io/badge/Evolution_API-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=c084fc&labelColor=0a0a0a)
+![ZPro](https://img.shields.io/badge/ZPro-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=c084fc&labelColor=0a0a0a)
+![Baileys](https://img.shields.io/badge/Baileys-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=c084fc&labelColor=0a0a0a)
+![Twilio](https://img.shields.io/badge/Twilio-0a0a0a?style=for-the-badge&logo=twilio&logoColor=c084fc&labelColor=0a0a0a)
+![ASAAS](https://img.shields.io/badge/ASAAS-0a0a0a?style=for-the-badge&logo=pix&logoColor=c084fc&labelColor=0a0a0a)
+![InfinitePay](https://img.shields.io/badge/InfinitePay-0a0a0a?style=for-the-badge&logo=pix&logoColor=c084fc&labelColor=0a0a0a)
+
+**`// observability`**
+
+![Grafana](https://img.shields.io/badge/Grafana-0a0a0a?style=for-the-badge&logo=grafana&logoColor=c084fc&labelColor=0a0a0a)
+![Loki](https://img.shields.io/badge/Loki-0a0a0a?style=for-the-badge&logo=grafana&logoColor=c084fc&labelColor=0a0a0a)
+![Sentry](https://img.shields.io/badge/Sentry-0a0a0a?style=for-the-badge&logo=sentry&logoColor=c084fc&labelColor=0a0a0a)
 
 **`// tools`**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=c084fc&labelColor=0a0a0a)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=c084fc&labelColor=0a0a0a)
 ![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0a0a0a)
-![Windows](https://img.shields.io/badge/Windows-0a0a0a?style=for-the-badge&logo=windows&logoColor=c084fc&labelColor=0a0a0a)
-![MS Office](https://img.shields.io/badge/MS_Office-0a0a0a?style=for-the-badge&logo=microsoftoffice&logoColor=c084fc&labelColor=0a0a0a)
-
-**`// currently_studying`**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=ec4899&labelColor=0a0a0a)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=ec4899&labelColor=0a0a0a)
-![Node.JS](https://img.shields.io/badge/Node.JS-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=ec4899&labelColor=0a0a0a)
+![ClickUp](https://img.shields.io/badge/ClickUp-0a0a0a?style=for-the-badge&logo=clickup&logoColor=c084fc&labelColor=0a0a0a)
+![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=c084fc&labelColor=0a0a0a)
+![Insomnia](https://img.shields.io/badge/Insomnia-0a0a0a?style=for-the-badge&logo=insomnia&logoColor=c084fc&labelColor=0a0a0a)
 
 <br>
 
