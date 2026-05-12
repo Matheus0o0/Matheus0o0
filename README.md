@@ -1,42 +1,126 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                       HEADER BANNER                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,Me+chamo+Matheus+Amorim;Tenho+21+anos;Estudando+Sistemas+de+informação+no+IFBA;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7c3aed,100:0a0a0a&height=180&section=header&text=MATHEUS%20AMORIM&fontColor=c084fc&fontSize=52&fontAlignY=38&desc=//%20full-stack%20dev%20in%20training_&descAlignY=62&descSize=16&animation=fadeIn"/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matheus0o0&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Amorim github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus0o0&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                        TYPING SVG                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=%3E+booting+system...;%3E+user%3A+matheus_amorim;%3E+age%3A+21;%3E+%40+IFBA+%2F+Sistemas+de+Informa%C3%A7%C3%A3o;%3E+status%3A+ONLINE_%E2%96%88)](https://git.io/typing-svg)
+
 </div>
 
+<br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matheus0o0&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                          ABOUT                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<div align="center">  
-<a href="www.instagram.com" target="https://www.instagram.com/matheus0o0/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+## ❯ `about_me`
+
+```bash
+$ whoami
+  matheus amorim — 21 anos
+
+$ cat education.log
+  Sistemas de Informação @ IFBA
+
+$ cat focus.log
+  JavaScript · Node.JS · MySQL
+```
+
+<br>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                          STATS                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## ❯ `stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Matheus0o0&show_icons=true&count_private=true&hide_border=true&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=0a0a0a" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus0o0&layout=compact&hide_border=true&title_color=c084fc&text_color=e9d5ff&bg_color=0a0a0a&langs_count=8" alt="top langs"/>
+
 </div>
 
-### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+<br>
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                          STACK                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matheus0o0}/count.svg" /></p> 
-<br></div>
-  
+## ❯ `stack`
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+**`// main skills`**
+
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=c084fc&labelColor=0a0a0a)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=c084fc&labelColor=0a0a0a)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=c084fc&labelColor=0a0a0a)
+
+**`// tools`**
+
+![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=c084fc&labelColor=0a0a0a)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0a0a0a)
+![Windows](https://img.shields.io/badge/Windows-0a0a0a?style=for-the-badge&logo=windows&logoColor=c084fc&labelColor=0a0a0a)
+![MS Office](https://img.shields.io/badge/MS_Office-0a0a0a?style=for-the-badge&logo=microsoftoffice&logoColor=c084fc&labelColor=0a0a0a)
+
+**`// currently_studying`**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=ec4899&labelColor=0a0a0a)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=ec4899&labelColor=0a0a0a)
+![Node.JS](https://img.shields.io/badge/Node.JS-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=ec4899&labelColor=0a0a0a)
+
+<br>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                       ACHIEVEMENTS                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## ❯ `achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Matheus0o0&theme=dracula&row=1&column=6&no-bg=true&no-frame=true&margin-w=10" alt="trophies"/>
+
+</div>
+
+<br>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                         CONNECT                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## ❯ `connect`
+
+<div align="center">
+
+<a href="https://www.instagram.com/matheus0o0/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=c084fc&labelColor=0a0a0a" alt="instagram"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                        VISITORS                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<sub>`// visitors`</sub>
+<br>
+<img src="https://profile-counter.glitch.me/Matheus0o0/count.svg" alt="visitors"/>
+
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                       FOOTER BANNER                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0a0a0a,100:7c3aed&height=120&section=footer"/>
