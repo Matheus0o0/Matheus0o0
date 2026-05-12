@@ -2,7 +2,7 @@
 <!-- ║                       HEADER BANNER                       ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7c3aed,100:0a0a0a&height=180&section=header&text=MATHEUS%20AMORIM&fontColor=c084fc&fontSize=52&fontAlignY=38&desc=//%20full-stack%20dev%20&descAlignY=62&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7c3aed,100:0a0a0a&height=180&section=header&text=MATHEUS%20AMORIM&fontColor=c084fc&fontSize=52&fontAlignY=38&desc=//%tech%20leadv%20&descAlignY=62&descSize=16&animation=fadeIn"/>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!-- ║                        TYPING SVG                         ║ -->
